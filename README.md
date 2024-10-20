@@ -10,7 +10,7 @@ We are looking for maintainers for this package, or to depreciate this in favor 
 Follow our docs here [https://react-native-camera.github.io/react-native-camera/](https://react-native-camera.github.io/react-native-camera/)
 
 ## Sponsors
-Version2 Branch2
+Version3 Branch2
 
 [![issuehunt-image](https://issuehunt.io/static/embed/issuehunt-button-v1.svg)](https://issuehunt.io/repos/33218414)
 
