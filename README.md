@@ -11,7 +11,7 @@ Follow our docs here [https://react-native-camera.github.io/react-native-camera/
 
 ## Sponsors
 
-Version3
+Version4
 
 [![issuehunt-image](https://issuehunt.io/static/embed/issuehunt-button-v1.svg)](https://issuehunt.io/repos/33218414)
 
